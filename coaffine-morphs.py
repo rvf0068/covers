@@ -88,7 +88,6 @@ def main():
                 print(f"No monos for graph {j}")
                 no_coaf_mono.append(j)
                 with open(filelog, 'a') as f:
-                    f.write(f"* graph {j}, after {i} tries:\n")
                     f.write("No coaffine monomorphisms!\n\n")
     print(f"Graphs in {solved} are solved!")
     print(f"Graphs in {no_coaf_mono} have no coaffine monomorphisms!")
