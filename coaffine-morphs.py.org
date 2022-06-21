@@ -1,0 +1,790 @@
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 4, after 0 tries
+
+{0: 14, 1: 23, 2: 18, 3: 11, 4: 16, 5: 21, 6: 22, 7: 15, 8: 10, 9: 19, 10: 20, 11: 17, 12: 2, 13: 4, 14: 7, 15: 3, 16: 5, 17: 6}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 35, after 0 tries
+
+{0: 0, 1: 14, 2: 10, 3: 2, 4: 19, 5: 17, 6: 15, 7: 1, 8: 3, 9: 11, 10: 16, 11: 18, 12: 20, 13: 8, 14: 7, 15: 21, 16: 9, 17: 6}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 57, after 0 tries
+
+{0: 6, 1: 18, 2: 20, 3: 8, 4: 5, 5: 23, 6: 19, 7: 7, 8: 9, 9: 21, 10: 22, 11: 4, 12: 0, 13: 16, 14: 13, 15: 1, 16: 17, 17: 12}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 83, after 0 tries
+
+{0: 6, 1: 22, 2: 18, 3: 3, 4: 5, 5: 21, 6: 23, 7: 7, 8: 2, 9: 19, 10: 20, 11: 4, 12: 16, 13: 10, 14: 13, 15: 17, 16: 11, 17: 12}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 92, after 0 tries
+
+{0: 6, 1: 18, 2: 16, 3: 3, 4: 5, 5: 21, 6: 19, 7: 7, 8: 2, 9: 17, 10: 20, 11: 4, 12: 22, 13: 10, 14: 13, 15: 23, 16: 11, 17: 12}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 114, after 0 tries
+
+{0: 6, 1: 18, 2: 20, 3: 8, 4: 4, 5: 23, 6: 19, 7: 7, 8: 9, 9: 21, 10: 22, 11: 5, 12: 0, 13: 14, 14: 13, 15: 1, 16: 15, 17: 12}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 118, after 0 tries
+
+{0: 6, 1: 22, 2: 18, 3: 3, 4: 4, 5: 21, 6: 23, 7: 7, 8: 2, 9: 19, 10: 20, 11: 5, 12: 14, 13: 10, 14: 13, 15: 15, 16: 11, 17: 12}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 128, after 0 tries
+
+{0: 6, 1: 20, 2: 18, 3: 5, 4: 2, 5: 23, 6: 21, 7: 7, 8: 4, 9: 19, 10: 22, 11: 3, 12: 12, 13: 11, 14: 15, 15: 13, 16: 10, 17: 14}
+
+* graph 129, after 0 tries
+
+{0: 6, 1: 18, 2: 20, 3: 5, 4: 9, 5: 23, 6: 19, 7: 7, 8: 4, 9: 21, 10: 22, 11: 8, 12: 12, 13: 17, 14: 1, 15: 13, 16: 16, 17: 0}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 149, after 0 tries
+
+{0: 6, 1: 18, 2: 16, 3: 3, 4: 4, 5: 21, 6: 19, 7: 7, 8: 2, 9: 17, 10: 20, 11: 5, 12: 14, 13: 10, 14: 13, 15: 15, 16: 11, 17: 12}
+
+* graph 150, after 0 tries
+
+{0: 6, 1: 20, 2: 16, 3: 8, 4: 4, 5: 19, 6: 21, 7: 7, 8: 9, 9: 17, 10: 18, 11: 5, 12: 0, 13: 22, 14: 13, 15: 1, 16: 23, 17: 12}
+
+* graph 151, after 0 tries
+
+{0: 6, 1: 20, 2: 16, 3: 8, 4: 4, 5: 19, 6: 21, 7: 7, 8: 9, 9: 17, 10: 18, 11: 5, 12: 0, 13: 22, 14: 13, 15: 1, 16: 23, 17: 12}
+
+* graph 152, after 0 tries
+
+{0: 6, 1: 16, 2: 18, 3: 10, 4: 9, 5: 21, 6: 17, 7: 7, 8: 11, 9: 19, 10: 20, 11: 8, 12: 14, 13: 3, 14: 1, 15: 15, 16: 2, 17: 0}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 164, after 0 tries
+
+{0: 0, 1: 16, 2: 14, 3: 4, 4: 3, 5: 21, 6: 17, 7: 1, 8: 5, 9: 15, 10: 20, 11: 2, 12: 22, 13: 10, 14: 9, 15: 23, 16: 11, 17: 8}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 205, after 0 tries
+
+{0: 0, 1: 22, 2: 18, 3: 2, 4: 15, 5: 21, 6: 23, 7: 1, 8: 3, 9: 19, 10: 20, 11: 14, 12: 12, 13: 8, 14: 7, 15: 13, 16: 9, 17: 6}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 208, after 0 tries
+
+{0: 10, 1: 21, 2: 18, 3: 15, 4: 2, 5: 23, 6: 20, 7: 11, 8: 14, 9: 19, 10: 22, 11: 3, 12: 4, 13: 9, 14: 17, 15: 5, 16: 8, 17: 16}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 212, after 0 tries
+
+{0: 0, 1: 20, 2: 18, 3: 14, 4: 3, 5: 23, 6: 21, 7: 1, 8: 15, 9: 19, 10: 22, 11: 2, 12: 6, 13: 8, 14: 13, 15: 7, 16: 9, 17: 12}
+
+* graph 213, after 0 tries
+
+{0: 10, 1: 21, 2: 18, 3: 3, 4: 14, 5: 23, 6: 20, 7: 11, 8: 2, 9: 19, 10: 22, 11: 15, 12: 16, 13: 8, 14: 5, 15: 17, 16: 9, 17: 4}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 223, after 0 tries
+
+{0: 0, 1: 18, 2: 16, 3: 14, 4: 3, 5: 21, 6: 19, 7: 1, 8: 15, 9: 17, 10: 20, 11: 2, 12: 6, 13: 8, 14: 13, 15: 7, 16: 9, 17: 12}
+
+* graph 224, after 0 tries
+
+{0: 10, 1: 19, 2: 16, 3: 3, 4: 14, 5: 21, 6: 18, 7: 11, 8: 2, 9: 17, 10: 20, 11: 15, 12: 22, 13: 8, 14: 5, 15: 23, 16: 9, 17: 4}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 230, after 0 tries
+
+{0: 6, 1: 18, 2: 20, 3: 8, 4: 5, 5: 23, 6: 19, 7: 7, 8: 9, 9: 21, 10: 22, 11: 4, 12: 0, 13: 14, 14: 13, 15: 1, 16: 15, 17: 12}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 239, after 0 tries
+
+{0: 12, 1: 22, 2: 18, 3: 14, 4: 10, 5: 21, 6: 23, 7: 13, 8: 15, 9: 19, 10: 20, 11: 11, 12: 0, 13: 6, 14: 5, 15: 1, 16: 7, 17: 4}
+
+No coaffine monomorphisms!
+
+* graph 241, after 0 tries
+
+{0: 12, 1: 20, 2: 18, 3: 10, 4: 15, 5: 23, 6: 21, 7: 13, 8: 11, 9: 19, 10: 22, 11: 14, 12: 4, 13: 7, 14: 1, 15: 5, 16: 6, 17: 0}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 248, after 0 tries
+
+{0: 6, 1: 18, 2: 20, 3: 4, 4: 9, 5: 23, 6: 19, 7: 7, 8: 5, 9: 21, 10: 22, 11: 8, 12: 14, 13: 13, 14: 1, 15: 15, 16: 12, 17: 0}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 261, after 0 tries
+
+{0: 12, 1: 16, 2: 18, 3: 14, 4: 11, 5: 21, 6: 17, 7: 13, 8: 15, 9: 19, 10: 20, 11: 10, 12: 0, 13: 6, 14: 5, 15: 1, 16: 7, 17: 4}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 295, after 0 tries
+
+{0: 0, 1: 20, 2: 18, 3: 14, 4: 9, 5: 23, 6: 21, 7: 1, 8: 15, 9: 19, 10: 22, 11: 8, 12: 6, 13: 3, 14: 13, 15: 7, 16: 2, 17: 12}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 307, after 0 tries
+
+{0: 10, 1: 21, 2: 18, 3: 9, 4: 12, 5: 23, 6: 20, 7: 11, 8: 8, 9: 19, 10: 22, 11: 13, 12: 16, 13: 3, 14: 5, 15: 17, 16: 2, 17: 4}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 313, after 0 tries
+
+{0: 0, 1: 22, 2: 18, 3: 8, 4: 13, 5: 21, 6: 23, 7: 1, 8: 9, 9: 19, 10: 20, 11: 12, 12: 14, 13: 2, 14: 7, 15: 15, 16: 3, 17: 6}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 316, after 0 tries
+
+{0: 10, 1: 17, 2: 18, 3: 9, 4: 12, 5: 21, 6: 16, 7: 11, 8: 8, 9: 19, 10: 20, 11: 13, 12: 22, 13: 3, 14: 5, 15: 23, 16: 2, 17: 4}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 320, after 0 tries
+
+{0: 12, 1: 21, 2: 18, 3: 15, 4: 10, 5: 23, 6: 20, 7: 13, 8: 14, 9: 19, 10: 22, 11: 11, 12: 6, 13: 4, 14: 3, 15: 7, 16: 5, 17: 2}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 324, after 0 tries
+
+{0: 12, 1: 19, 2: 16, 3: 15, 4: 10, 5: 21, 6: 18, 7: 13, 8: 14, 9: 17, 10: 20, 11: 11, 12: 6, 13: 4, 14: 3, 15: 7, 16: 5, 17: 2}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 343, after 0 tries
+
+{0: 6, 1: 20, 2: 16, 3: 5, 4: 9, 5: 19, 6: 21, 7: 7, 8: 4, 9: 17, 10: 18, 11: 8, 12: 12, 13: 15, 14: 1, 15: 13, 16: 14, 17: 0}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+* graph 355, after 0 tries
+
+{0: 6, 1: 20, 2: 18, 3: 5, 4: 9, 5: 23, 6: 21, 7: 7, 8: 4, 9: 19, 10: 22, 11: 8, 12: 12, 13: 15, 14: 1, 15: 13, 16: 14, 17: 0}
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
+No coaffine monomorphisms!
+
