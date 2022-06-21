@@ -1,0 +1,4 @@
+* graph 7, after 2000000 attempts
+
+No coaffine monomorphisms found!
+
