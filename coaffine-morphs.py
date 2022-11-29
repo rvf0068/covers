@@ -23,7 +23,7 @@ def read_adj_list(the_list):
 
 def graphs_from_file(f):
     """Reads a list of graphs created with PrintTo"""
-    with open(f) as adj:
+    with open(f, encoding="utf-8") as adj:
         v = adj.read()
     v = v.replace('\n', '')
     graphs = eval(v)
